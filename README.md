@@ -16,13 +16,12 @@ I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursu
 - Specialized in video annotations and model creation to detect abnormal behavior within retail stores, enhancing security measures and contributing to the development of advanced surveillance systems for improved safety and risk mitigation.
 
 ## 💻 LeetCode Experience
-I have completed numerous LeetCode problems, enhancing my problem-solving skills and preparing for technical interviews in software development roles.
 
 <div align="center">
 
 ### 🏆 LeetCode Info
 ![50 Days Badge](https://img.shields.io/badge/50%20Days-2024-brightgreen) ![100 Days Badge](https://img.shields.io/badge/100%20Days-2024-brightgreen)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/ajithkumarajii?theme=light&borderRadius=15&fontSize=20)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajithkumar02?theme=light&borderRadius=15&fontSize=20)  
 
 
 </div>
