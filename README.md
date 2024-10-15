@@ -1,6 +1,5 @@
 # Hi there, I'm Ajithkumar 👋
 
-## 🎓 About Me
 I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursuing a degree in Computer Science.I have a strong foundation in **machine learning (ML)**, **deep learning (DL)**, and **natural language processing (NLP)**, along with hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 <h2 align="center">Leetcode Info<h2>  
@@ -17,8 +16,11 @@ I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursu
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AjithKumar02?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 <div align=center>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajithkumarajii&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarajii&layout=compact)
 
