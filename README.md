@@ -1,6 +1,13 @@
-## Leetcode Info
+## My Leetcode Info
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AjithKumar02)
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajithkumarajii&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarajii&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajithkumarajii)
 
 
 <!--
