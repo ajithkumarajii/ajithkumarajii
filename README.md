@@ -1,26 +1,28 @@
 # Hi there, I'm Ajithkumar 👋
 
 ## 🎓 About Me
-I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursuing a degree in Computer Science. I have a passion for **machine learning (ML)**, **deep learning (DL)**, and **natural language processing (NLP)**, along with a strong foundation in web development using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursuing a degree in Computer Science.I have a strong foundation in **machine learning (ML)**, **deep learning (DL)**, and **natural language processing (NLP)**, along with hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-## 🌱 Current Projects
-- **Language Learning App**: A unique platform allowing users to learn various languages from their native languages, featuring interactive study materials, quizzes, and performance analysis.
-- **Nutrient Detection Application**: An app that analyzes images of kids' meals to track daily and weekly nutrition intake, providing rewards for healthy eating habits.
-- **Cultural Preservation Project**: A project aimed at extracting knowledge from ancient inscriptions and manuscripts, translating them into modern languages, and sharing them through blogs.
+## 🌱 Projects
+- **Chat with PDF**: An innovative application that allows users to interact with PDF documents, extracting and processing information seamlessly.
+- **Manga Recommendation System**: A personalized recommendation system designed to help users discover new manga based on their preferences and reading history.
+- **Chameleon Language Learning App**: A unique platform that allows users to learn various languages from their native languages, featuring interactive study materials, quizzes, and performance analysis.
+
+## 💻 LeetCode Experience
+I have completed numerous LeetCode problems, enhancing my problem-solving skills.
+![LeetCode Stats](https://leetcard.jacoblin.cool/AjithKumar02)
 
 ## 💼 Internships
-I am actively seeking internship opportunities in software development and data science. I have applied for positions at **Goldman Sachs** and **Atlan** for the 2026 batch.
+I am actively seeking internship opportunities.
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Angular.js, Node.js, Express.js
-- **Technologies**: MongoDB, Firebase, Elasticsearch, Google Vision API
+- **Languages**: Python, C++, JavaScript
+- **Frameworks & Libraries**: React, Node.js, Express.js
 - **Tools**: Git, GitHub, FAISS, Hugging Face
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/ajithkumarajii)
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Portfolio](https://your-portfolio-link)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajithkumarajii&show_icons=true&theme=radical)
@@ -30,31 +32,3 @@ I am actively seeking internship opportunities in software development and data 
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
-
-
-## My Leetcode Info
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AjithKumar02)
-
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajithkumarajii&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarajii&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajithkumarajii)
-
-
-<!--
-**ajithkumarajii/ajithkumarajii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
