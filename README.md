@@ -8,8 +8,7 @@ I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursu
 - **Manga Recommendation System**: A personalized recommendation system designed to help users discover new manga based on their preferences and reading history.
 - **Chameleon Language Learning App**: A unique platform that allows users to learn various languages from their native languages, featuring interactive study materials, quizzes, and performance analysis.
 
-## 💻 LeetCode Experience
-I have completed numerous LeetCode problems, enhancing my problem-solving skills.
+## 💻 LeetCode Info
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AjithKumar02)
 
 ## 💼 Internships
@@ -26,7 +25,9 @@ I am actively seeking internship opportunities.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajithkumarajii&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarajii&layout=compact)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajithkumarajii)
 
 ---
