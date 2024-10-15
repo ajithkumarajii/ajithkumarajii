@@ -1,4 +1,4 @@
-## Hi there 👋
+## Leetcode Info
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AjithKumar02)
 
