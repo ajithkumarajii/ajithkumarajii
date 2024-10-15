@@ -27,12 +27,11 @@ I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursu
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajithkumarajii)
 </div>
 
-<div align=center>
+
 ## 🛠️ Skills
 - **Languages**: Python, C++, JavaScript
 - **Frameworks & Libraries**: React, Node.js, Express.js
 - **Tools**: Git, GitHub, FAISS, Hugging Face
-</div>
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
