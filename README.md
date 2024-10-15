@@ -10,7 +10,7 @@ I am a third-year student at **Sri Eshwar College of Engineering (SECE)**, pursu
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AjithKumar02?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
