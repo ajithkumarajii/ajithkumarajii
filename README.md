@@ -1,62 +1,100 @@
-# Ajith Kumar 
+# Ajith Kumar
 
-**Third-Year Computer Science Student | Software Engineer / AI Engineer Aspirant**
-
-Sri Eshwar College of Engineering (SECE)
+**Computer Science Student | Aspiring Software Engineer & GenAI Engineer**
 
 ---
 
 ## About Me
 
-Results-driven Computer Science undergraduate with strong fundamentals in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, combined with hands-on **full-stack development (MERN stack)** experience. Focused on building scalable software systems and practical AI-driven solutions aligned with real-world business needs.
+Passionate Computer Science student with a strong interest in **Generative AI**, **AI Agents**, and scalable software systems. I enjoy building practical applications using **LLMs**, **RAG pipelines**, and modern web technologies while continuously improving my problem-solving and development skills.
+
+Currently focused on:
+
+* AI Agent Development
+* LLM-powered Applications
+* Full-Stack Development
+* Backend Engineering
+* Problem Solving & DSA
+
+I love experimenting with new technologies and building projects that solve real-world problems.
 
 ---
 
 ## Core Skills
 
-* Data Structures & Algorithms (LeetCode, pattern-based problem solving)
-* Machine Learning & LLM-based Applications
-* Full-Stack Web Development (MERN)
-* Backend Engineering & REST API Design
-* Rapid Prototyping & Project-Based Development
+* Data Structures & Algorithms
+* Generative AI & AI Agents
+* Retrieval-Augmented Generation (RAG)
+* Full-Stack Web Development
+* REST API Development
+* Rapid Prototyping & Problem Solving
 
 ---
 
 ## Technical Stack
 
-**Programming Languages**
-Python, C++, JavaScript
+### Programming Languages
 
-**Frameworks & Libraries**
-React, Node.js, Express.js, FastAPI
+* Python
+* C++
+* JavaScript
 
-**AI / ML Tools**
-PyTorch, Hugging Face, FAISS, LangChain, RAG
+### Frameworks & Libraries
 
-**Databases & Developer Tools**
-MongoDB, Git, GitHub, REST APIs
+* React.js
+* Node.js
+* Express.js
+* FastAPI
+
+### AI / ML Tools
+
+* LangChain
+* Hugging Face
+* FAISS
+* PyTorch
+* OpenAI APIs
+* RAG Pipelines
+
+### Databases & Developer Tools
+
+* MongoDB
+* Git & GitHub
+* REST APIs
+* VS Code
 
 ---
 
-## GitHub Activity
+## Areas of Interest
+
+* Generative AI Applications
+* Multi-Agent Systems
+* LLM Engineering
+* AI Automation Workflows
+* Backend Systems
+* Intelligent Web Applications
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajithkumarajii\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarajii\&layout=compact)
-</div>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarajii\&layout=compact)
+
+</div>
 
 ---
 
 ## Career Objective
 
-Seeking **Software Engineering / AI-ML internship or full-time opportunities** to contribute to impactful products, strengthen engineering expertise, and grow within a high-performance technology team.
+Seeking opportunities as a **Software Engineering Intern**, **AI/ML Intern**, or **GenAI Intern** where I can contribute to impactful projects, strengthen my engineering skills, and grow as a developer in a collaborative and high-performance environment.
 
 ---
 
-## Contact
+## Connect With Me
 
 * GitHub: [https://github.com/ajithkumarajii](https://github.com/ajithkumarajii)
 * LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-* Email: 
+* Email: [your-email@example.com](mailto:your-email@example.com)
